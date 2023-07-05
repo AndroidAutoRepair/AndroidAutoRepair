@@ -1,7 +1,7 @@
 # AutoCompanion
 **Privacy Policy**
 
-Ingenika Inc. built the AutoCompanion app as a Paid app. This SERVICE is provided by Ingenika Inc.
+Ingenika Inc. built the AutoCompanion app as a free app. This SERVICE is provided by Ingenika Inc.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
