@@ -20,3 +20,5 @@ If this step is not working, uninstall the update of android auto app, repeat th
 And if you are confortable at disable google play service update. There is an option to make android auto working, without to run auto companion app very often:
 
 Find a version of google play service that is working, disable google play store. So, because google play service is parked at that version, it will not be upgraded and not causing problems with android auto.
+
+Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
