@@ -16,17 +16,15 @@ After running Auto Companion App, disconnect your phone from car, reconnect it t
 Sometimes, with big version upgrade from Android auto, this approach is not working, you can try forget the bluetooth device on your car, and pair the phone again.
 
 If this step is not working, uninstall the update of android auto app, repeat the previous procedures again. 
+  1.  Clear android auto ***cache*** and ***storage***
+  2.  Clear google search app ***cache*** and  ***storage***
+  3.  Clear ggoogle play service ***cache*** and ***storage***
+  4.  You may need also clear google maps ***cache*** and ***storage***
+
+after these step, start over pairing process with your car head unit
 
 And if you are confortable at disable google play service update. There is an option to make android auto working, without to run auto companion app very often:
 
 Find a version of google play service that is working, disable google play store. So, because google play service is parked at that version, it will not be upgraded and not causing problems with android auto.
 
 Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
-
-As of today, for android 13, 14, google play service 23.26.17(190400-551657477) works without problem.
-
-If you how to downgrade that, and disable google play store, it may solve your problem. 
-
-If you don't want to disable  google play store, you can use Auto Companion on play store.
-
-For google play service 23.26.17(190400-551657477) , the package version is 23.26.17. The number part of 190400 is linked to android plateform and also manufacturers, so you need to use your own devices number. For exemple, for amazon fire tablet, the number is 100400, you need to go to the google play service app information page to get that number.
