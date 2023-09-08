@@ -6,8 +6,10 @@ Unfortunately, android auto is not alway stable. During last year, I've spent a 
 After buying two Pixel Phones and tring a lots of times with different app combinations, I've found that the problem is linked to Google play service.
 As Google Play Service  is a service you can not disable, it's not possible to develop another app to make android auto working.
 
+
 # The first step is to make sure that your phone's android auto was enable on your head unit
 ## normally, this is under setting -- android auto
+
 
 But I've finally found an option to make android auto working, which is made possible  by Auto Companion App [Auto Companion](https://play.google.com/store/apps/details?id=com.ingenika.autocompanion).
 
@@ -28,3 +30,6 @@ And if you are confortable at disable google play service update. There is an op
 Find a version of google play service that is working, disable google play store. So, because google play service is parked at that version, it will not be upgraded and not causing problems with android auto.
 
 Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
+
+If these steps are helpfull for you, please consider purchase Auto Companion Pro[Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
+
