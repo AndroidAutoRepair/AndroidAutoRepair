@@ -31,5 +31,5 @@ Find a version of google play service that is working, disable google play store
 
 Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
 
-If these steps are helpfull for you, please consider purchase Auto Companion Pro[Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
+If these steps are helpfull for you, please consider purchase [Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
 
