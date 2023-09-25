@@ -1,15 +1,12 @@
 # My Android Auto app isn't working
 ## Your ultimate guide for Android Auto debuging
 
+This blog focus mainly the debuging process, for pairing process, please use (google android auto guide)[https://support.google.com/androidauto/answer/6348029?hl=en].
+
 I drive everyday, and most of time, I don't need android auto. But from time to time, I do need android auto for navigation.
 Unfortunately, android auto is not alway stable. During last year, I've spent a few month debuging and testing why it's not working.
 After buying two Pixel Phones and tring a lots of times with different app combinations, I've found that the problem is linked to Google play service.
 As Google Play Service  is a service you can not disable, it's not possible to develop another app to make android auto working.
-
-
-# The first step is to make sure that your phone's android auto was enable on your head unit
-## normally, this is under setting -- android auto
-
 
 But I've finally found an option to make android auto working, which is made possible  by Auto Companion App [Auto Companion](https://play.google.com/store/apps/details?id=com.ingenika.autocompanion).
 
@@ -32,4 +29,6 @@ Find a version of google play service that is working, disable google play store
 Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
 
 If these steps are helpfull for you, please consider purchase [Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
+
+Alternatively, if you use android on a daily basis, you can buy a ***<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=ingenika05-20&linkCode=ur2&linkId=57d49a15f8840d6ed7605a8a7fca4cad&camp=1789&creative=9325&index=electronics&keywords=wireless android auto adapter">wireless android auto adapter</a>***, which is more reliable at this moment.
 
