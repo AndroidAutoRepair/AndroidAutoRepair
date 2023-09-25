@@ -1,7 +1,7 @@
 # My Android Auto app isn't working
 ## Your ultimate guide for Android Auto debuging
 
-This blog focus mainly the debuging process, for pairing process, please use (google android auto guide)[https://support.google.com/androidauto/answer/6348029?hl=en].
+This blog focus mainly the debuging process, for pairing process, please use [google android auto guide](https://support.google.com/androidauto/answer/6348029?hl=en).
 
 I drive everyday, and most of time, I don't need android auto. But from time to time, I do need android auto for navigation.
 Unfortunately, android auto is not alway stable. During last year, I've spent a few month debuging and testing why it's not working.
