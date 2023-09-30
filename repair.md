@@ -21,6 +21,8 @@ But I've finally found an option to make android auto working, which is made pos
 
 After running Auto Companion App, disconnect your phone from car, reconnect it to the car, normally, should solve the problem.
 
+If above step is not working, you can try to restart your head unit and try again.
+
 Sometimes, with big version upgrade from Android auto, this approach is not working, you can try forget the bluetooth device on your car, and pair the phone again.
 
 If this step is not working, uninstall the update of android auto app, repeat the previous procedures again. 
