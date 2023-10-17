@@ -41,5 +41,5 @@ Here is a video of using Auto Companion Pro App, which is an improved version of
 
 If these steps are helpfull for you, please consider purchase [Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
 
-Alternatively, if you use android on a daily basis, you can buy a ***<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=ingenika05-20&linkCode=ur2&linkId=57d49a15f8840d6ed7605a8a7fca4cad&camp=1789&creative=9325&index=electronics&keywords=wireless android auto adapter">wireless android auto adapter</a>***, which is more reliable at this moment.
+Alternatively, if you use android on a daily basis, you can buy a wireless android auto adapter, which is more reliable at this moment.
 
