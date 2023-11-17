@@ -8,7 +8,7 @@
   gtag('config', 'G-1QPWPDVQ5F');
 </script>
 # My Android Auto app isn't working
-## Your ultimate guide for Android Auto debuging
+## Your ultimate guide for Android Auto debuging       						[FR](./repare.txt)
 
 This blog focus mainly the debuging process, for pairing process, please use [google android auto guide](https://support.google.com/androidauto/answer/6348029?hl=en).
 
@@ -37,9 +37,7 @@ And if you are confortable at disable google play service update. There is an op
 
 Find a version of google play service that is working, disable google play store. So, because google play service is parked at that version, it will not be upgraded and not causing problems with android auto.
 
-Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@Kluane)
+Here is a video of using Auto Companion Pro App, which is an improved version of Auto Companion App on [youtube](https://www.youtube.com/@kluane)
 
 If these steps are helpfull for you, please consider purchase [Auto Companion Pro](https://play.google.com/store/apps/details?id=com.ingenika.autocompanionpro) App which can much improve your android auto debuging process. Normally you need to click back and forth a lot to found these setting and make change, with Auto Companion Pro, it's a one stop for android auto debuging. Especially when you are in a rush, or in a emergency, time can save life.
-
-Alternatively, if you use android on a daily basis, you can buy a wireless android auto adapter, which is more reliable at this moment.
 
