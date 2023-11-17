@@ -8,7 +8,7 @@
   gtag('config', 'G-1QPWPDVQ5F');
 </script>
 # Mon Android Auto app ne travaille plus
-## Votre guide ultime pour le débogage Android Auto
+## Votre guide ultime pour le débogage Android Auto					[FR](./repare.md)             [EN](./repair.md)
 
 Ce blog se concentre principalement sur le processus de débogage. Pour le processus de couplage, veuillez utiliser le [guide automatique Google Android](https://support.google.com/androidauto/answer/6348029?hl=en).
 
@@ -28,7 +28,7 @@ Parfois, avec une mise à niveau importante d'Android Auto, cette approche ne fo
 Si cette étape ne fonctionne pas, désinstallez la mise à jour de l'application Android Auto, répétez à nouveau les procédures précédentes.
    1. Effacer le ***cache*** et le ***stockage automatique Android***
    2. Effacez le ***cache*** et le ***stockage de l'application de recherche Google***
-   3. Effacez le ***cache*** et le ***stockage*** de Services Google Play. [1](pics/fr1.png), [2](pics/fr2.png), [3](pics/fr3.png), [4](pics/fr4.png)
+   3. Effacez le ***cache*** et le ***stockage*** de Services Google Play. ![1](pics/fr1.png), ![2](pics/fr2.png), ![3](pics/fr3.png), ![4](pics/fr4.png)
    4. Vous devrez peut-être également effacer le ***cache*** et le ***stockage de Google Maps***
 
 après ces étapes, recommencez le processus d'appairage avec l'unité principale de votre voiture

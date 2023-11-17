@@ -9,7 +9,7 @@
 </script>
 
 # Meine Android Auto-App funktioniert nicht
-## Ihr ultimativer Leitfaden für das Android Auto-Debugging      						[FR](./repare.txt)
+## Ihr ultimativer Leitfaden für das Android Auto-Debugging      						[FR](./repare.md)				[EN](./repair.md)
 
 
 Dieser Blog konzentriert sich hauptsächlich auf den Debugging-Prozess. Für den Pairing-Prozess verwenden Sie bitte [Google Android Auto Guide](https://support.google.com/androidauto/answer/6348029?hl=en).
@@ -29,7 +29,7 @@ Manchmal funktioniert dieser Ansatz bei einem großen Versions-Upgrade von Andro
 
 Wenn dieser Schritt nicht funktioniert, deinstallieren Sie das Update der Android Auto-App und wiederholen Sie die vorherigen Schritte erneut.
    1. Android Auto ***Cache*** und ***Speicher*** löschen
-   2. Leeren Sie den ***Cache*** und den ***Speicher*** der Google-Such-App. [1](pics/de1.png), [2](pics/de2.png), [3](pics/de3.png), [4](pics/de4.png),
+   2. Leeren Sie den ***Cache*** und den ***Speicher*** der Google-Such-App. ![1](pics/de1.png), ![2](pics/de2.png), ![3](pics/de3.png), ![4](pics/de4.png),
    3. Löschen Sie den ***Cache*** und ***Speicher*** des Google Play-Dienstes
    
    4. Möglicherweise müssen Sie auch den ***Cache*** und den ***Speicher*** von Google Maps leeren.
