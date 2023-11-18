@@ -8,7 +8,7 @@
   gtag('config', 'G-1QPWPDVQ5F');
 </script>
 
-# Meine Android Auto-App funktioniert nicht
+# Meine Android Auto-App funktioniert nicht mehr
 ## Ihr ultimativer Leitfaden für das Android Auto-Debugging      						[FR](./repare.md)				[EN](./repair.md)
 
 
