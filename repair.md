@@ -7,8 +7,10 @@
 
   gtag('config', 'G-1QPWPDVQ5F');
 </script>
+
 # My Android Auto app isn't working
-## Your ultimate guide for Android Auto debuging       						[FR](./repare.md)                [DE](./reparieren.md)
+
+## Your ultimate guide for Android Auto debuging      	[FR](./repare.md)            [DE](./reparieren.md)         [ES](./reparar.md)   [IT](./reparieren.md)
 
 This blog focus mainly the debuging process, for pairing process, please use [google android auto guide](https://support.google.com/androidauto/answer/6348029?hl=en).
 
